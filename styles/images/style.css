@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+}
+.grid-pic {
+  display: flex;
+  height: 500px;
+  width: 500px;
+}
+.grid-pic > img {
+  width: 500px;
+}
